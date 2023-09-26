@@ -43,6 +43,8 @@
             "args": ["app.run:app", "--bind=127.0.0.1:8000", "--reload", "-w", "4"]
         }
     ]
-}
-```
-Please note that using the simple RUN command will not launch gunicorn but werkzeug on port 5000
+  }
+  ```
+Please note that within VSCode using the simple RUN command will not launch gunicorn but werkzeug on port 5000
+
+To launch the code interactively in the shell you might want to use the provided runme.sh script. Note that in this case gunicorn is launched as a python module in the right environment and not as an installed binary.
