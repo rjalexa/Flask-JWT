@@ -1,7 +1,7 @@
 # Flask API JWT access contro with pydantic, flasgger and MongoDB backend example
 ![flask](https://github.com/rjalexa/Flask-JWT/assets/15216911/4a5481b3-4800-4369-aedc-c3a340e18e0c)
 ![jwt](https://github.com/rjalexa/Flask-JWT/assets/15216911/c1cb54b2-deff-405a-b180-be394d8d80b3)
-![flasgger](https://github.com/rjalexa/Flask-JWT/assets/15216911/11894afb-029a-47dd-8187-f5a213c84309)
+![flasgger](https://github.com/rjalexa/Flask-JWT/assets/15216911/0090a04e-8b0a-4ca5-b537-72c94bda3267)
 ![gunicorn](https://github.com/rjalexa/Flask-JWT/assets/15216911/30e18d2d-98a8-4750-a2b3-2f25354e68aa)
 ![mongodb](https://github.com/rjalexa/Flask-JWT/assets/15216911/bfd75154-4f33-4834-8b78-668bd2fdecad)
 ![pydantic](https://github.com/rjalexa/Flask-JWT/assets/15216911/3e36eb50-a5a2-43ab-b087-a7b08cb9b326)
