@@ -1,4 +1,4 @@
-# Flask API JWT access contro with pydantic, flasgger and MongoDB backend example
+# Flask API JWT access control with pydantic, flasgger and MongoDB backend, all dockerized and orchestrated by docker compose example
 ![flask](https://github.com/rjalexa/Flask-JWT/assets/15216911/4a5481b3-4800-4369-aedc-c3a340e18e0c)
 ![jwt](https://github.com/rjalexa/Flask-JWT/assets/15216911/c1cb54b2-deff-405a-b180-be394d8d80b3)
 ![flasgger](https://github.com/rjalexa/Flask-JWT/assets/15216911/0090a04e-8b0a-4ca5-b537-72c94bda3267)
