@@ -16,13 +16,13 @@
     * login route: to use the username and password values to get an access and a refresh JWT tokens
     * refresh route: when the short lived access JWT expires, use the refresh token to get a new one
     * unprotected route: to show a non protected route
-    * protected rount: to show a protected route. you can access it after login, then after the access token expires, you can use the refresh route to get a new one
+    * protected route: to show a protected route. you can access it after login, then after the access token expires, you can use the refresh route to get a new one
     Added several security related techniques.
                      
     As a demo it depends on an unprotected localhost:27017 mongodb backend
 
-    The .env file sets needed environment variables. Please edit them to change token
-    expiry times and secrets
+    The .env file sets needed environment variables. Please use the .env.example as a template, copy it to a .env file and edit the entries to change token
+    expiry times and secrets and remove the comments
 
     The pyproject.toml file lists prerequisites to be installed by poetry. run poetry install 
     to install all prerequisite libraries
